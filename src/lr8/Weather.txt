@@ -1,0 +1,4 @@
+spring is green
+summer is bright
+autumn is yellow
+winter is white

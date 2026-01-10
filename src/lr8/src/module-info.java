@@ -1,0 +1,2 @@
+module lr8 {
+}
